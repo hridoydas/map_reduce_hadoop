@@ -167,7 +167,7 @@ Step 9
   su mainuser
   cd /usr/local/hadoop/sbin
   ls
-  sudo su hduser
+  sudo su hridoy
   start-dfs.sh
   start-yarn.sh
   jps
